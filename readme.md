@@ -1,3 +1,0 @@
-- [Talon](https://github.com/Vankiru/talon/blob/main/docs/talon.md)
-- [Ruby](https://github.com/Vankiru/talon/blob/main/docs/ruby.md)
-- [Python](https://github.com/Vankiru/talon/blob/main/docs/python.md)
