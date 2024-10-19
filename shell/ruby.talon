@@ -1,6 +1,12 @@
 app: iterm2
 -
 
+ruby:
+  insert("ruby ")
+
+ruby <user.snake_name>:
+  insert("ruby {snake_name}.rb")
+
 bundle install:
   insert("bundle install")
   key(enter)

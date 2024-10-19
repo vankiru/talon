@@ -13,3 +13,5 @@ redo:
 (tree | three) open:
   user.vim_command_mode("NERDTree")
 
+nerd tree:
+  user.vim_command_mode("NERDTree")

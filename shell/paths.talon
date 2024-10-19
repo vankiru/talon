@@ -6,3 +6,5 @@ title: /zsh/
   insert("cd {shell_path}")
   key(enter)
 
+(catty | katy) <user.file_name>
+  insert("cd {file_name}")
